@@ -1,0 +1,17 @@
+/* frontend/src/App.css */
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.card {
+  min-height: 250px;
+}
+
+.container {
+  padding-top: 20px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
